@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8fdb9bc-b476-4b38-be21-d83808662ffd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB4xSelenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15102024/test_Lab01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17102024/test_Lab05.py" afterDir="false" />
+    <list default="true" id="e8fdb9bc-b476-4b38-be21-d83808662ffd" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/src/ex_19102024/test_Lab06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prashant-sugumaran"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prashant-sugumaran/PyATB4xSelenium.git",
+    "accountId": "e7ce2f77-e336-4549-b135-f71ec92ceb06"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;171101ff&quot;,
   &quot;associatedIndex&quot;: 1
@@ -51,6 +51,8 @@
   "keyToString": {
     "Python tests.Python tests for task2.test_open_katalon_demo.executor": "Run",
     "Python tests.Python tests for test_Lab03.test_open_katalon_demo.executor": "Run",
+    "Python tests.Python tests for test_Lab06.test_chrome_current_url_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab06.test_negative_vwo_login.executor": "Run",
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
     "Python tests.Python tests in test_Lab02.py.executor": "Run",
     "Python tests.Python tests in test_Lab03.py.executor": "Run",
@@ -59,7 +61,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab03.test_open_katalon_demo">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab06.test_negative_vwo_login">
     <configuration name="Python tests for task2.test_open_katalon_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xSelenium" />
       <option name="ENV_FILES" value="" />
@@ -90,34 +92,34 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab01.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab06.test_chrome_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_15102024/test_Lab01.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_Lab06.test_chrome_current_url_verification&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab02.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab06.test_negative_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_19102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_17102024/test_Lab02.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_Lab06.test_negative_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in test_Lab03.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -137,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab06.test_negative_vwo_login" />
+        <item itemvalue="Python tests.Python tests for test_Lab06.test_chrome_current_url_verification" />
         <item itemvalue="Python tests.Python tests for test_Lab03.test_open_katalon_demo" />
         <item itemvalue="Python tests.Python tests in test_Lab03.py" />
         <item itemvalue="Python tests.Python tests for task2.test_open_katalon_demo" />
-        <item itemvalue="Python tests.Python tests in test_Lab02.py" />
-        <item itemvalue="Python tests.Python tests in test_Lab01.py" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +163,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729870383633</updated>
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1729925567344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729925567344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
 </project>
